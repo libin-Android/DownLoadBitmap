@@ -139,6 +139,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
                 break;
         }
+        //测试一下
         super.onActivityResult(requestCode, resultCode, data);
     }
 }
